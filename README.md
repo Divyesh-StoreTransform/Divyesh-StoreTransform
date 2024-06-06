@@ -1,4 +1,4 @@
-<img src="https://storetransform.com/wp-content/uploads/2022/06/store-logo.png" alt="Store Transform">
+<img src="https://storetransform.com/wp-content/uploads/2022/06/store-logo.png" alt="Store Transform" style="justify-content: center;">
 
 - 👋 Hi, I’m Divyesh Thadani <a href="https://github.com/Divyesh-StoreTransform/Divyesh-StoreTransform">@Divyesh-StoreTransform</a>
 - 👀 I’m interested in Magento Devlopment and PHP Development
